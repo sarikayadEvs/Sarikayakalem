@@ -13,5 +13,7 @@ sudo apt update
 sudo apt install -y --install-recommends winehq-stable
 
 sudo apt install figlet
-figlet "Ily.Eqlas Sunar //E\\"
+figlet "Ily.Eqlas Sunar 
+
+//E\\"
 
