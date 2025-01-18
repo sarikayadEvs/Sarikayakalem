@@ -12,5 +12,6 @@ sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/debian/ bookworm 
 sudo apt update
 sudo apt install -y --install-recommends winehq-stable
 
-
+sudo apt install figlet
+figlet "Ily.Eqlas Sunar //E\\"
 
